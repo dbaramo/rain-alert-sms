@@ -7,10 +7,14 @@ https://openweathermap.org/api/one-call-api
 
 You can host this on https://www.pythonanywhere.com/ and schedule it to run every morning or run it on your own server and run a cron job to schedule the script.
 
-#### Environment Variables needed for script:
+### Environment Variables needed for script:
 
 **OWM_API_KEY**
+<br />
 **TWILIO_ACCOUNT_SID**
+<br />
 **TWILIO_AUTH_TOKEN**
+<br />
 **TWILIO_PHONE_NUMBER**
+<br />
 **PHONE_NUMBER_TO_RECEIVE**
